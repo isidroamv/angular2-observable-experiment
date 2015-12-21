@@ -1,0 +1,16 @@
+{
+  "name": "angular2-observable-experiment",
+  "version": "1.0.0",
+  "description": "A minimal Angular2 experiment with rxjs/Observable implemented",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "connect": "3.4.0",
+    "del": "2.2.0",
+    "gulp": "3.9.0",
+    "gulp-sass": "^2.1.1",
+    "gulplog": "1.0.0",
+    "open": "0.0.5",
+    "serve-static": "1.10.0"
+  }
+}
